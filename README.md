@@ -15,7 +15,7 @@
         src="https://img.shields.io/badge/Instagram-%235851db?style=for-the-badge&logo=Instagram&logoColor=white"
       />
     </a>
-    <a href="gunnar__vingren">
+    <a href="https://www.twitch.tv/gunnar__vingren">
       <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-Gunnar?style=for-the-badge&logo=twitch&logoColor=white&color=%236441a5">
     </a>
   </div>
