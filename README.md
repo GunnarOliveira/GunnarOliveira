@@ -4,16 +4,19 @@
     width="200"
   />
   <div id="badges">
-    <a src="#"
+    <a href="#"
       ><img
         alt="Static Badge"
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"
     /></a>
-    <a src="#"
+    <a href="#"
       ><img
         alt="Static Badge"
         src="https://img.shields.io/badge/Instagram-%235851db?style=for-the-badge&logo=Instagram&logoColor=white"
       />
+    </a>
+    <a href="">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-Gunnar?style=for-the-badge&logo=twitch&logoColor=white&color=%236441a5">
     </a>
   </div>
   <div id="gitstatus">
@@ -71,3 +74,9 @@
 - 🎮 Additionally, my passion for gaming serves as a source of both entertainment and creative inspiration during leisure time, providing intriguing challenges.
 - 📖 To complement my personal growth, I devote time to reading the Bible, seeking spiritual inspiration and reflections on values and ethics.
 - ⚡ I'm open to new learning opportunities and collaboration. Let's build something amazing together! 🚀
+
+---
+### :fire: My Status:
+[![GitHub Streak](https://streak-stats.demolab.com?user=GunnarOliveira&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnarOliveira&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
