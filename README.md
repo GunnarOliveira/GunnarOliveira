@@ -4,18 +4,18 @@
     width="200"
   />
   <div id="badges">
-    <a href="#"
+    <a href="https://www.linkedin.com/feed/"
       ><img
         alt="Static Badge"
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"
     /></a>
-    <a href="#"
+    <a href="https://www.instagram.com/gunnnnar.exe/"
       ><img
         alt="Static Badge"
         src="https://img.shields.io/badge/Instagram-%235851db?style=for-the-badge&logo=Instagram&logoColor=white"
       />
     </a>
-    <a href="">
+    <a href="gunnar__vingren">
       <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-Gunnar?style=for-the-badge&logo=twitch&logoColor=white&color=%236441a5">
     </a>
   </div>
