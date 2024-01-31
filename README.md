@@ -62,7 +62,7 @@
 
 - 💻 Currently, I'm actively engaged in both frontend and backend projects, exploring innovative ideas to boost my performance as a web developer. Always on the lookout for new technologies and programming practices to stay ahead.
 - 🎮 Additionally, my passion for gaming serves as a source of both entertainment and creative inspiration during leisure time, providing intriguing challenges.
-- 📖 To complement my personal growth, I devote time to reading the Bible, seeking spiritual inspiration and reflections on values and ethics.
+- 📖 To complement my personal growth, I devote time to reading the Bible, seeking spiritual inspiration and reflections on values and ethics. <a href="https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV" style:color:white>John 3:16</a>
 - ⚡ I'm open to new learning opportunities and collaboration. Let's build something amazing together! 🚀
 
 ---
