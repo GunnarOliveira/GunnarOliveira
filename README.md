@@ -40,19 +40,20 @@
 
 <div>
     <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/css.svg" alt="CSS3" height="50"             style="max-width: 100%;"></a>  
-    <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="50"       style="max-width: 100%;"></a>  
-    <a href="https://www.figma.com/" rel="nofollow"><img           src="https://camo.githubusercontent.com/ed1bd8ccbe7cb039513eb0586ede4b08f67a1f787e8ea821f2e7855fe9eccd6f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667" alt="Figma" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" style="max-width: 100%;"></a>  
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/164471099-ef2d9cde-5791-4e92-94eb-4369289a3b9d.png" alt="Vscode" height="50"             style="max-width: 100%;"></a>   
+    <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/html5.svg" alt="HTML5" height="50"       style="max-width: 100%;"></a>  
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/figma.svg" alt="Figma" height="50" style="max-width: 100%;"></a>  
+    <a href="https://pt.wikipedia.org/wiki/Design_de_interface" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/nextui.svg" alt="UI" height="50"             style="max-width: 100%;"></a>   
 </div>
 
 ### :rocket: Future Skills:
 
 <div>
-<a href="https://reactjs.org/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/191021594-57b3d4ab-0078-4c98-ab76-57c913759568.png" alt="React" height="50" style="max-width: 100%;"></a>    
-<a href="https://www.javascript.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/164469558-3b45ab8d-2ab0-40f0-887c-2aa22c84c771.png" alt="JavaScript" height="50" style="max-width: 100%;"></a>
-<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/458c0d3ebe5ab840c6fc3e7f5e9abb5ca9252cf5624d25d21fad3c635a18ecb8/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/191022005-9c366454-a2bf-4477-996b-8324b06a5a52.png" alt="Node.js" height="50" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/205490624-7e2d566c-fd21-4d64-ab7a-fb3253ee5775.png" alt="MongoDB" height="50" style="max-width: 100%;"></a>
+<a href="https://reactjs.org/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/react.svg" alt="React" height="50" style="max-width: 100%;"></a>    
+<a href="https://www.javascript.com/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/javascript.svg" alt="JavaScript" height="50" style="max-width: 100%;"></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/typescript.svg" alt="TypeScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 100%;"></a>
+<a href="nextdotjs.org" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/nextdotjs.svg" alt="nextdotjs.svg" height="50" style="max-width: 100%;"></a>
+<a href="https://tailwindcss.com" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/tailwindcss.svg" alt="TailWind" height="50" style="max-width: 100%;"></a>
+<a href="https://sass-lang.com" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/sass.svg" alt="SASS" height="50" style="max-width: 100%;"></a>
 </div>
 
 
