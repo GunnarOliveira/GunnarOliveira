@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img
-    src="https://media1.giphy.com/media/ven4cniMpFiPjDclit/200.webp?cid=790b761191pf9efq4360u04pht58lq6jpb1ymzyb50rsb7ta&ep=v1_stickers_search&rid=200.webp&ct=s"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eDUxaWR5NTE2bnc0cW5kZXpqNGxmNGdxczhqMmQxOGtoYm50byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcMpL8GebR6ygaSRwx/giphy.gif"
+    width="200"
+  />
+    <img
+    src="https://media2.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.webp?cid=ecf05e4716doq3zi47z9zlco1lmh3ib1ddggy5p5awx9yryj&ep=v1_stickers_related&rid=giphy.webp&ct=s"
     width="200"
   />
   <div id="badges">
