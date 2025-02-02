@@ -40,7 +40,7 @@
 
 <div>
     <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/164469302-1fa2710c-4915-49a6-be39-1a3d6fc8a763.png" alt="CSS3" height="50"             style="max-width: 100%;"></a>  
-    <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/164468896-81a36c76-ab2e-4a21-a3b1-be2cca843e68.png" alt="HTML5" height="50"       style="max-width: 100%;"></a>  
+    <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="50"       style="max-width: 100%;"></a>  
     <a href="https://www.figma.com/" rel="nofollow"><img           src="https://camo.githubusercontent.com/ed1bd8ccbe7cb039513eb0586ede4b08f67a1f787e8ea821f2e7855fe9eccd6f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667" alt="Figma" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" style="max-width: 100%;"></a>  
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/103836216/164471099-ef2d9cde-5791-4e92-94eb-4369289a3b9d.png" alt="Vscode" height="50"             style="max-width: 100%;"></a>   
 </div>
