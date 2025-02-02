@@ -43,8 +43,8 @@
 ### :hammer_and_wrench: Current Skills :
 
 <div>
-    <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/css.svg" alt="CSS3" height="50"             style="max-width: 100%;"></a>  
     <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/html5.svg" alt="HTML5" height="50"       style="max-width: 100%;"></a>  
+    <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/css.svg" alt="CSS3" height="50"             style="max-width: 100%;"></a>
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/figma.svg" alt="Figma" height="50" style="max-width: 100%;"></a>  
     <a href="https://pt.wikipedia.org/wiki/Design_de_interface" rel="nofollow"><img src="https://github.com/GunnarOliveira/icons/blob/main/nextui.svg" alt="UI" height="50"             style="max-width: 100%;"></a>   
 </div>
