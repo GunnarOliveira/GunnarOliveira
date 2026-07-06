@@ -19,9 +19,6 @@
         src="https://img.shields.io/badge/Instagram-%235851db?style=for-the-badge&logo=Instagram&logoColor=white"
       />
     </a>
-    <a href="https://www.twitch.tv/gunnar__vingren">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-Gunnar?style=for-the-badge&logo=twitch&logoColor=white&color=%236441a5">
-    </a>
   </div>
   <div id="gitstatus">
     <img
@@ -71,7 +68,5 @@
 - ⚡ I'm open to new learning opportunities and collaboration. Let's build something amazing together! 🚀
 
 ---
-### :fire: My Status:
-[![GitHub Streak](https://streak-stats.demolab.com?user=GunnarOliveira&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnarOliveira&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+###  🌌 My Personal Page:
+https://gunnaroliveira.github.io/Personal-Page/
