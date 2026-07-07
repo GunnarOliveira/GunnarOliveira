@@ -8,7 +8,7 @@
     width="200"
   />
   <div id="badges">
-    <a href="https://www.linkedin.com/in/gunnar-vingren-72663a2a2/"
+    <a href="https://www.linkedin.com/in/gunnar-vingren-2b9907366/"
       ><img
         alt="Static Badge"
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"
