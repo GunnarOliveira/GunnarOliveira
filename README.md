@@ -1,6 +1,6 @@
-<style>.border-radius{border-radius:50%;}</style>
+
 <div id="header" align="center">
-  <img class="border-radius"
+  <img style = "border-radius:50%;"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqaW8wZzg1c292NWR6azF0NDV3MzVrcmY3OXViZ3prM2k3MXQzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rQ5cWOkvXfoTUZLIPh/giphy.gif"
     width="300"
   />
