@@ -1,11 +1,9 @@
 <div id="header" align="center">
   <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eDUxaWR5NTE2bnc0cW5kZXpqNGxmNGdxczhqMmQxOGtoYm50byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcMpL8GebR6ygaSRwx/giphy.gif"
+    src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eDUxaWR5NTE2bnc0cW5kZXpqNGxmNGdxczhqMmQxOGtoYm50byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcMpL8GebR6ygaSRwx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3loeWpyNzl5NmZub3gwd3E0a2R3N2FwYXp2Y3Frdjdpc21vdjBveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rQ5cWOkvXfoTUZLIPh/giphy.gif)"
     width="200"
   />
-    <img
-    src="https://media2.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.webp?cid=ecf05e4716doq3zi47z9zlco1lmh3ib1ddggy5p5awx9yryj&ep=v1_stickers_related&rid=giphy.webp&ct=s"
-    width="200"
+  
   />
   <div id="badges">
     <a href="https://www.linkedin.com/in/gunnar-vingren-2b9907366/"
