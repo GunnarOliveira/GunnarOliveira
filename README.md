@@ -3,6 +3,8 @@
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqaW8wZzg1c292NWR6azF0NDV3MzVrcmY3OXViZ3prM2k3MXQzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rQ5cWOkvXfoTUZLIPh/giphy.gif"
     width="200"
   />
+  <br>
+  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/gunnar-vingren-2b9907366/"
       ><img
